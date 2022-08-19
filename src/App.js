@@ -1,11 +1,11 @@
 import './App.css';
 
-import News from './News';
+import NYTimes from './NYTimes';
 
 function App() {
   return (
     <div className="App">
-      <News/>
+      <NYTimes/>
     </div>
   );
 }
